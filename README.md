@@ -1,4 +1,4 @@
-# Information Retrieval with Qauntized Mistral 7b LLM, LangChain & HF
+# Information Retrieval with Quantized Mistral 7b LLM, LangChain & HF
 
 ## Overview
 This project focuses on information retrieval using Large Language Models (LLMs) with the LangChain library. LangChain is employed to build an agent that leverages Hugging Face Transformers for text generation and BitsAndBytes for model quantization. The goal is to demonstrate the retrieval of information about specific products using tools like Wikipedia and web search.
